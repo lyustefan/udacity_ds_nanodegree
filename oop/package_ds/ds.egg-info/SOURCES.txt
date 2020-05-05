@@ -1,8 +1,0 @@
-setup.py
-ds/__init__.py
-ds/commonfunctions.py
-ds.egg-info/PKG-INFO
-ds.egg-info/SOURCES.txt
-ds.egg-info/dependency_links.txt
-ds.egg-info/not-zip-safe
-ds.egg-info/top_level.txt
