@@ -1,0 +1,35 @@
+ body {
+  margin-left:25px;
+  margin-right:25px;
+}
+
+h1 {
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img#udacity_logo {
+  width: 10%;
+}
+
+a#main-link {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: gray;
+}
+
+div#main-content {
+  font-family: 'helvetica';
+}
+
+p.bold-paragraph {
+  font-weight: bold;
+}
+
+td {
+  color:green;
+  border:solid black 1px;
+}
