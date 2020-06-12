@@ -1,9 +1,9 @@
 from setuptools import setup
 
-setup(name='ds_yl',
-      version='0.1',
+setup(name='dsyl',
+      version='0.5',
       description='Common Functions',
-      packages=['ds_yl'],
+      packages=['dsyl'],
       author = 'Yang Lyu',
       author_email = 'smart.lvyang@gmail.com',
       zip_safe=False)
